@@ -1,0 +1,8 @@
+what,script_name,Date,Time,status
+info,job1,20200217,02:01:11,f
+info,job2,20200217,02:21:11,s
+info,job3,20200217,02:31:11,s
+info,job1,20200217,02:41:11,s
+info,job2,20200217,02:51:11,f
+info,job3,20200217,02:59:11,f
+info,job1,20200217,03:01:11,f
